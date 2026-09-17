@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+artifacts/
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.log
+.runtime-cache/
+.runtime-feed/
